@@ -2,22 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Mostapha+Yasser;MERN+Stack+Developer;Frontend+Specialist" alt="Typing SVG" />
 </div>
 
-<div align="left" margen=""10px>
-  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" align="left" alt="coding animation"/>
-  
-  ### 👨‍💻 About Me
-  
-  I'm a passionate Full Stack Developer specializing in the MERN stack, with a keen eye for creating beautiful and functional web experiences. With a strong foundation in frontend technologies and a growing expertise in backend development, I bridge the gap between design and functionality.
-  
-  - 🚀 Currently crafting awesome web experiences with **React** and **Node.js**
-  - 🌱 Exploring the depths of **Vue.js** to expand my skill set
-  - 💡 I believe in writing clean, efficient, and maintainable code
-  - 🎯 Goal: Contributing to open-source and building impactful applications
-  - ⚡ Fun fact: I debug with coffee and solve problems with pizza 🍕
-  
-</div>
-
-<br clear="left"/>
 <br/>
 
 ## 🎯 Current Focus
