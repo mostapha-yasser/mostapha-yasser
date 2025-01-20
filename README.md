@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Mostapha+Yasser;MERN+Stack+Developer;Frontend+Specialist" alt="Typing SVG" />
 </div>
 
-<div align="left">
+<div align="left" margen=""10px>
   <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" align="left" alt="coding animation"/>
   
   ### 👨‍💻 About Me
