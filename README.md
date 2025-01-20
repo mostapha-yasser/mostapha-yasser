@@ -55,11 +55,11 @@
 
 ## 📊 My Stats
 
-<div align="left">
+<div align="left" clear="both">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mostapha-yasser&theme=tokyonight" alt="GitHub Streak Stats" />
 </div>
 
-<div align="right">
+<div align="right" clear="both">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mostapha-yasser&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="most-used-languages"/>
 </div>
 
