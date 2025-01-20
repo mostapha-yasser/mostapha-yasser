@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Mostapha+Yasser;MERN+Stack+Developer;Frontend+Specialist" alt="Typing SVG" />
 </div>
-  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  align="center" alt="coding animation"/>
+  <img align="center" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  = alt="coding animation"/>
 
 <br/>
 
@@ -56,8 +56,8 @@
 ## 📊 My Stats
 
 <div >
-  <img align="left" clear="both" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mostapha-yasser&theme=tokyonight" alt="GitHub Streak Stats" />
-    <img align="right" clear="both"  width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostapha-yasser&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="most-used-languages"/>
+  <img  width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mostapha-yasser&theme=tokyonight" alt="GitHub Streak Stats" />
+    <img  width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostapha-yasser&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="most-used-languages"/>
 
 </div>
 
